@@ -7,20 +7,7 @@
     android:fitsSystemWindows="true"
     tools:context="com.example.hrushipc.stregapp.splashh"
     android:weightSum="1"
-    android:background="@drawable/splash"
+    android:background="@drawable/background_splash4"
     android:alpha=".5">
 
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="COP 290"
-        android:id="@+id/textView"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:textColor="#f7041547"
-        android:textStyle="bold"
-        android:textSize="80dp"
-        android:textIsSelectable="false" />
 </RelativeLayout>
